@@ -1,0 +1,5 @@
+GetOrdersByUserTest.class
+PatchUserTest.class
+CreateOrderTest.class
+CreateUserTest.class
+LoginUserTest.class

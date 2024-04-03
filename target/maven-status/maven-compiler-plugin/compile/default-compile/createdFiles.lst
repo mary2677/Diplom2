@@ -1,0 +1,8 @@
+users\UserAndCreds.class
+util\RandomOrderGenerator.class
+orders\OrderAndClient.class
+users\UserAndClient.class
+endpoint\Endpoints.class
+orders\Order.class
+users\User.class
+util\RandomUserGenerator.class
